@@ -76,6 +76,8 @@ Key observations:
 | Wafer 2 | Isolation Forest | 0.6357 | 0.0013 | 0.4286 | 0.0026 |
 | Wafer 2 | Autoencoder | 0.3892 | 0.4686 | 0.0386 | 0.0713 |
 
+<img width="1407" height="246" alt="image" src="https://github.com/user-attachments/assets/39d33442-2f3c-47fe-930b-7f95e89e14e4" />
+
 ## Conclusion
 Wafer anomaly detection requires more than high accuracy.  
 In realistic manufacturing conditions, models must be evaluated using precision, recall, F1-score, and failure analysis.
